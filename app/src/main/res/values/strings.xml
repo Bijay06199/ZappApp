@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ZappApp</string>
+    <string name="title">Title</string>
+    <string name="photo_title">Photo Title</string>
+    <string name="url">URL</string>
+    <string name="photo_url">Photo URL</string>
+    <string name="ok">Ok</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="no_data">No data</string>
+    <string name="photos_list">Photos List</string>
+</resources>
